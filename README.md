@@ -80,18 +80,18 @@ Metode HTTP yang digunakan dalam aplikasi ini adalah:
 #### *RESTful Service* pada Customer
 
 - **GET Customer**  
-![GET](./UAS/get_costumer.PNG)
+![GET](./UAS/get_customer.PNG)
 
 - **POST Customer**  
-![POST](./UAS/post_costumer.PNG)
+![POST](./UAS/post_customer.PNG)
 
 
 - **PUT Customer**  
-![PUT](./UAS/put_costumer.PNG)
+![PUT](./UAS/put_customer.PNG)
 
 
 - **DELETE Customer**  
-![DELETE](./UAS/delete_costumer.PNG)
+![DELETE](./UAS/delete_customer.PNG)
 #### *RESTful Service* pada Penjualan
 
 - **GET Penjualan**  

@@ -65,59 +65,59 @@ Metode HTTP yang digunakan dalam aplikasi ini adalah:
 #### *RESTful Service* pada Barang
 
 - **GET Barang**  
-![GET](./UAS/get_barang.png)
+![GET](./UAS/get_barang.PNG)
 
 - **POST Barang**  
-![POST](./UAS/post_barang.png)
+![POST](./UAS/post_barang.PNG)
 
 - **PUT Barang**  
-![PUT](./UAS/put_barang.png)
+![PUT](./UAS/put_barang.PNG)
 
 - **DELETE Barang**  
-![DELETE](./UAS/delete_barang.png)
+![DELETE](./UAS/delete_barang.PNG)
 
 
 #### *RESTful Service* pada Customer
 
 - **GET Customer**  
-![GET](./UAS/get_costumer.png)
+![GET](./UAS/get_costumer.PNG)
 
 - **POST Customer**  
-![POST](./UAS/post_costumer.png)
+![POST](./UAS/post_costumer.PNG)
 
 
 - **PUT Customer**  
-![PUT](./UAS/put_costumer.png)
+![PUT](./UAS/put_costumer.PNG)
 
 
 - **DELETE Customer**  
-![DELETE](./UAS/delete_costumer.png)
+![DELETE](./UAS/delete_costumer.PNG)
 #### *RESTful Service* pada Penjualan
 
 - **GET Penjualan**  
-![GET](./UAS/get_penjualan.png)
+![GET](./UAS/get_penjualan.PNG)
 - **POST Penjualan**  
-![POST](./UAS/post_barang.png)
+![POST](./UAS/post_barang.PNG)
 
 #### *RESTful Service* pada Pembelian
 
 - **GET Pembelian**  
-![GET](./UAS/get_pembelian.png)
+![GET](./UAS/get_pembelian.PNG)
 
 - **POST Pembelian**  
-![POST](./UAS/post_barang.png)
+![POST](./UAS/post_barang.PNG)
 #### *RESTful Service* pada Supplier
 
 - **GET Supplier**  
-![GET](./UAS/get_supplier.png)
+![GET](./UAS/get_supplier.PNG)
 
 - **POST Supplier**  
-![POST](./UAS/post_supplier.png)
+![POST](./UAS/post_supplier.PNG)
 
 - **PUT Supplier**  
-![PUT](./UAS/put_supplier.png)
+![PUT](./UAS/put_supplier.PNG)
 - **DELETE Supplier**  
-![DELETE](./UAS/delete_supplier.png)
+![DELETE](./UAS/delete_supplier.PNG)
 
 ### CodeIgniter
 
@@ -160,19 +160,19 @@ class Api
 #### Tampilan Web
 
 - Barang
-![List Barang](./UAS/web/barang.png)
+![List Barang](./UAS/web/barang.PNG)
 
 - Customer
-![List Customer](./UAS/web/customer.png)
+![List Customer](./UAS/web/customer.PNG)
 
 - Penjualan
-![List Penjualan](./UAS/web/penjualan.png)
+![List Penjualan](./UAS/web/penjualan.PNG)
 
 - Pembelian
-![List Pembelian](./UAS/web/pembelian.png)
+![List Pembelian](./UAS/web/pembelian.PNG)
 
 - Supplier
-![List Supplier](./UAS/web/supplier.png)
+![List Supplier](./UAS/web/supplier.PNG)
 
 #### Tampilan Mobile Apps
 

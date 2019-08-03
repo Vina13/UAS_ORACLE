@@ -32,23 +32,23 @@ Aplikasi ini memiliki 5 table, yaitu :
 
 #### Table Barang
 
-![Table Barang!](./UAS/t_barang.png "Table Barang")
+![Table Barang!](./UAS/t_barang.PNG "Table Barang")
 
 #### Table Penjualan
 
-![Table Penjualan!](./UAS/t_penjualan.png "Table Penjualan")
+![Table Penjualan!](./UAS/t_penjualan.PNG "Table Penjualan")
 
 #### Table Pembelian
 
-![Table Pembelian!](./UAS/t_pembelian.png "Table Pembelian")
+![Table Pembelian!](./UAS/t_pembelian.PNG "Table Pembelian")
 
 #### Table Supplier
 
-![Table Supplier!](./UAS/t_supplier.png "Table Supplier")
+![Table Supplier!](./UAS/t_supplier.PNG "Table Supplier")
 
 ### *RESTful Services*
 
-![RESTful Services](./UAS/restful.png)
+![RESTful Services](./UAS/restful.PNG)
 
 PUT dan DELETE menggunakan {id} untuk mengidentifikasi data yang akan dieksekusi.  
 Metode HTTP yang digunakan dalam aplikasi ini adalah:

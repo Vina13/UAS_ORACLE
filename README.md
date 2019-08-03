@@ -28,7 +28,7 @@ Aplikasi ini memiliki 5 table, yaitu :
 
 #### Table Customer
 
-![Table Customer!](./UAS/t_costumer.png "Table Customer")
+![Table Customer!](./UAS/t_costumer.PNG "Table Customer")
 
 #### Table Barang
 
